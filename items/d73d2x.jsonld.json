@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Menu",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/893952"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d73d2x.pdf"
+  },
+  "schema:datePublished": [
+    {
+      "@type": "http://www.w3.org/2001/XMLSchema#date",
+      "@value": "1966-02-10"
+    },
+    {
+      "@type": "xs:#gYear",
+      "@value": "1966"
+    }
+  ],
+  "schema:identifier": [
+    "D-060, Box:60, Folder:162",
+    "ark:/87287/d73d2x",
+    "Digitized File Numbers:5336-5338"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d73d2x-0.png"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+  },
+  "schema:name": {
+    "@language": "en",
+    "@value": "The Firehouse (Sacramento, California): An Evening with the Grape Industry Advisory Committee and Viticulture and Enology and Cooperating University Staff"
+  }
+}

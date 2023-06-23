@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Menu",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/893952"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d7ng7g.pdf"
+  },
+  "schema:datePublished": [
+    {
+      "@type": "http://www.w3.org/2001/XMLSchema#date",
+      "@value": "1963-06-04"
+    },
+    {
+      "@type": "xs:#gYear",
+      "@value": "1963"
+    }
+  ],
+  "schema:identifier": [
+    "Digitized File Numbers:3342-3345",
+    "ark:/87287/d7ng7g",
+    "D-060, Box:80, Folder:13"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d7ng7g-0.png"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+  },
+  "schema:name": {
+    "@language": "en",
+    "@value": "Mark Hopkins Hotel: Comité National des Vins de France, Tasting of French Red Wines"
+  }
+}

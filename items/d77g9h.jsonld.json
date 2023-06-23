@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Menu",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/893952"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d77g9h.pdf"
+  },
+  "schema:datePublished": [
+    {
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+      "@value": "1966"
+    },
+    {
+      "@type": "xs:#date",
+      "@value": "1966-08-19"
+    }
+  ],
+  "schema:identifier": [
+    "Digitized File Numbers:5344-5345",
+    "ark:/87287/d77g9h",
+    "D-060, Box:60, Folder:165"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d77g9h-0.png"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+  },
+  "schema:name": {
+    "@language": "en",
+    "@value": "Bohemian Club (San Francisco, California): Dinner for Alfred Knopf"
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175987",
+    "http://schema.org/name": "Wine lists"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1424061",
+    "http://schema.org/name": "Menus"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1726982",
+    "http://schema.org/name": "Amerine, Maynard A. (Maynard Andrew), 1911-1998"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/893952",
+    "http://schema.org/name": "Dinners and dining"
+  }
+]

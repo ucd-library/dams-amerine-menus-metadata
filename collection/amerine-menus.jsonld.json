@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/n79065230"
+    },
+    {
+      "@id": "http://www.productontology.org/id/Wine_list"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1726982"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/893952"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175987"
+    },
+    {
+      "@id": "http://www.productontology.org/id/Maynard_Amerine"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://www.productontology.org/id/Menu"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2018"
+  },
+  "schema:description": "Maynard A. Amerine (1911-1998) was Professor of Viticulture and Enology at the University of California, Davis. He was an author, lecturer, bibliographer, and consultant on wine matters. This collection of over 1,500 menus and wine lists complements Amerine’s larger wine label collection. It spans several decades and chronicles dining experiences in United States and European restaurants, at bon voyage and welcome home celebrations, at UC Davis Department of Enology events and parties, at meetings of food and wine societies, aboard ships and airlines, and more. Menu styles vary from simple lists of items and prices to hand-illustrated works of art. Some menus are pristine, while others bear the marks of their use through stains of food and drink, personal notes on the wine selection, or the collected signatures of organizers and guests.  \n\n The complete finding aid for Amerine's Papers is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/).",
+  "schema:identifier": "ark:/87287/d79c7b",
+  "schema:image": {
+    "@id": "@base:/item/ark:/87287/d77623/media/images/d77623-0.png"
+  },
+  "schema:hasPart": "@base/D-060",
+  "schema:keywords": [
+    "Maynard Amerine",
+    "Wine Lists",
+    "Menus"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Amerine (Maynard) Menu Collection",
+  "schema:publisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  },
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2018"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Menu",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/893952"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d7h32j.pdf"
+  },
+  "schema:datePublished": [
+    {
+      "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+      "@value": "1963"
+    },
+    {
+      "@type": "xs:#date",
+      "@value": "1963-02-26"
+    }
+  ],
+  "schema:identifier": [
+    "Digitized File Numbers:5267-5275",
+    "ark:/87287/d7h32j",
+    "D-060, Box:60, Folder:137"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d7h32j-0.png"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+  },
+  "schema:name": {
+    "@language": "en",
+    "@value": "The Essex House (New York): The Wine and Food Society of New York Presents and Tasting of White Wines and Rosés with a Seafood Buffet"
+  }
+}

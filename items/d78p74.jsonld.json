@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Menu",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/893952"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424061"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d78p74.pdf"
+  },
+  "schema:datePublished": [
+    {
+      "@type": "http://www.w3.org/2001/XMLSchema#date",
+      "@value": "1966-10-01"
+    },
+    {
+      "@type": "xs:#gYear",
+      "@value": "1966"
+    }
+  ],
+  "schema:identifier": [
+    "ark:/87287/d78p74",
+    "D-060, Box:60, Folder:166",
+    "Digitized File Numbers:5346-5347"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d78p74-0.png"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+  },
+  "schema:name": {
+    "@language": "en",
+    "@value": "Beaulieu Vineyard (Rutherford, California): California Vintage Wine Society, San Francisco Chapter Luncheon"
+  }
+}
