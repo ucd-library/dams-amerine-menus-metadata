@@ -46,9 +46,9 @@
   "schema:description": "Maynard A. Amerine (1911-1998) was Professor of Viticulture and Enology at the University of California, Davis. He was an author, lecturer, bibliographer, and consultant on wine matters. This collection of over 1,500 menus and wine lists complements Amerine’s larger wine label collection. It spans several decades and chronicles dining experiences in United States and European restaurants, at bon voyage and welcome home celebrations, at UC Davis Department of Enology events and parties, at meetings of food and wine societies, aboard ships and airlines, and more. Menu styles vary from simple lists of items and prices to hand-illustrated works of art. Some menus are pristine, while others bear the marks of their use through stains of food and drink, personal notes on the wine selection, or the collected signatures of organizers and guests.  \n\n The complete finding aid for Amerine's Papers is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/c8xd13fg/).",
   "schema:identifier": "ark:/87287/d79c7b",
   "schema:image": {
-    "@id": "@base:/item/ark:/87287/d77623/media/images/d77623-0.png"
+    "@id": "info:fedora/item/ark:/87287/d77623/media/images/d77623-0.png"
   },
-  "schema:hasPart": "@base/D-060",
+  "schema:hasPart": {"@id":"@base:/D-060"},
   "schema:keywords": [
     "Maynard Amerine",
     "Wine Lists",
