@@ -30,9 +30,8 @@
     "@value": "1978"
   },
   "schema:identifier": [
-    "D-060, Box:42, Folder:61",
-    "ark:/87287/d7ts40",
-    "Digitized File Numbers:1994-1994"
+    "ark:/87287/d7r94j/D060/Box:42+Folder:61",
+    "ark:/87287/d7ts40"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7ts40-0.png"

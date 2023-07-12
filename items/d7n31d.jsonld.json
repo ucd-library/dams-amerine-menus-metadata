@@ -32,8 +32,7 @@
   "schema:description": "Lunch and dinner menus (7 items)",
   "schema:identifier": [
     "ark:/87287/d7n31d",
-    "D-060, Box:60, Folder:128",
-    "Digitized File Numbers:5249-5251"
+    "ark:/87287/d7r94j/D060/Box:60+Folder:128"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7n31d-0.png"

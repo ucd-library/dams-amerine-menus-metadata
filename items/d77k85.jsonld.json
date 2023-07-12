@@ -26,9 +26,8 @@
     "@id": "@base:/media/d77k85.pdf"
   },
   "schema:identifier": [
-    "Digitized File Numbers:2521-2524",
     "ark:/87287/d77k85",
-    "D-060, Box:43, Folder:70"
+    "ark:/87287/d7r94j/D060/Box:43+Folder:70"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d77k85-0.png"

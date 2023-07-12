@@ -26,9 +26,8 @@
     "@id": "@base:/media/d7gs6n.pdf"
   },
   "schema:identifier": [
-    "D-060, Box:82, Folder:23",
-    "ark:/87287/d7gs6n",
-    "Digitized File Numbers:3705-3707"
+    "ark:/87287/d7r94j/D060/Box:82+Folder:23",
+    "ark:/87287/d7gs6n"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7gs6n-0.png"
