@@ -26,9 +26,8 @@
     "@id": "@base:/media/d77h1t.pdf"
   },
   "schema:identifier": [
-    "D-060, Box:45, Folder:30",
-    "ark:/87287/d77h1t",
-    "Digitized File Numbers:613-613"
+    "ark:/87287/d7r94j/D060/Box:45+Folder:30",
+    "ark:/87287/d77h1t"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d77h1t-0.png"

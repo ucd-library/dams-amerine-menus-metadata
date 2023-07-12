@@ -31,9 +31,8 @@
   },
   "schema:description": "Four menus, each with different cover",
   "schema:identifier": [
-    "D-060, Box:39, Folder:17",
-    "ark:/87287/d72d2m",
-    "Digitized File Numbers:739-741"
+    "ark:/87287/d7r94j/D060/Box:39+Folder:17",
+    "ark:/87287/d72d2m"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d72d2m-0.png"

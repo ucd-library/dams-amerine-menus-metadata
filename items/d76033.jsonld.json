@@ -30,9 +30,8 @@
     "@value": "1966"
   },
   "schema:identifier": [
-    "D-060, Box:80, Folder:28",
-    "ark:/87287/d76033",
-    "Digitized File Numbers:3417-3421"
+    "ark:/87287/d7r94j/D060/Box:80+Folder:28",
+    "ark:/87287/d76033"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d76033-0.png"

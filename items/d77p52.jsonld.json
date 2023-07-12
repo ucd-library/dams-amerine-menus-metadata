@@ -26,9 +26,8 @@
     "@id": "@base:/media/d77p52.pdf"
   },
   "schema:identifier": [
-    "D-060, Box:43, Folder:10",
-    "ark:/87287/d77p52",
-    "Digitized File Numbers:2359-2361"
+    "ark:/87287/d7r94j/D060/Box:43+Folder:10",
+    "ark:/87287/d77p52"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d77p52-0.png"
