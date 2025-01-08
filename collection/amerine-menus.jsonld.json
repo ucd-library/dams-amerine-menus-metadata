@@ -36,7 +36,6 @@
   "schema:image": {
     "@id": "info:fedora/item/ark:/87287/d77623/media/images/d77623-0.png"
   },
-  "schema:hasPart": {"@id":"@base:/D-060"},
   "schema:keywords": [
     "Maynard Amerine",
     "Wine Lists",
