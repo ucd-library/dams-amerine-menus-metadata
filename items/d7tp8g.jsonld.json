@@ -37,9 +37,8 @@
   ],
   "schema:description": "Le Diner de Fin de Carême",
   "schema:identifier": [
-    "D-060, Box:45, Folder:92",
-    "ark:/87287/d7tp8g",
-    "Digitized File Numbers:4363-4363"
+    "ark:/87287/d7r94j/D060/Box:45+Folder:92",
+    "ark:/87287/d7tp8g"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7tp8g-0.png"

@@ -31,9 +31,8 @@
   },
   "schema:description": "\"Paquebot 'Ile de France' \"",
   "schema:identifier": [
-    "D-060, Box:82, Folder:30",
-    "ark:/87287/d7tg9s",
-    "Digitized File Numbers:3737-3739"
+    "ark:/87287/d7r94j/D060/Box:82+Folder:30",
+    "ark:/87287/d7tg9s"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7tg9s-0.png"

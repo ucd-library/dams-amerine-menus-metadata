@@ -26,9 +26,8 @@
     "@id": "@base:/media/d7mp77.pdf"
   },
   "schema:identifier": [
-    "Digitized File Numbers:2655-2657",
     "ark:/87287/d7mp77",
-    "D-060, Box:43, Folder:112"
+    "ark:/87287/d7r94j/D060/Box:43+Folder:112"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7mp77-0.png"

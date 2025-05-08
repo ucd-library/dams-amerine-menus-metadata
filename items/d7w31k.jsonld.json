@@ -26,9 +26,8 @@
     "@id": "@base:/media/d7w31k.pdf"
   },
   "schema:identifier": [
-    "Digitized File Numbers:614-615",
     "ark:/87287/d7w31k",
-    "D-060, Box:45, Folder:31"
+    "ark:/87287/d7r94j/D060/Box:45+Folder:31"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7w31k-0.png"

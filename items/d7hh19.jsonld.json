@@ -26,9 +26,8 @@
     "@id": "@base:/media/d7hh19.pdf"
   },
   "schema:identifier": [
-    "D-060, Box:45, Folder:29",
-    "ark:/87287/d7hh19",
-    "Digitized File Numbers:612-612"
+    "ark:/87287/d7r94j/D060/Box:45+Folder:29",
+    "ark:/87287/d7hh19"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7hh19-0.png"

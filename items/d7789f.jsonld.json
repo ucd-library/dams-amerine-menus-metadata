@@ -30,9 +30,8 @@
     "@value": "1987"
   },
   "schema:identifier": [
-    "Digitized File Numbers:2092-2094",
     "ark:/87287/d7789f",
-    "D-060, Box:42, Folder:95"
+    "ark:/87287/d7r94j/D060/Box:42+Folder:95"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7789f-0.png"

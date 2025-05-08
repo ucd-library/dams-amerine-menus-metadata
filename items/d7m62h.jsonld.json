@@ -36,9 +36,8 @@
     }
   ],
   "schema:identifier": [
-    "D-060, Box:68, Folder:7",
-    "ark:/87287/d7m62h",
-    "Digitized File Numbers:3104-3106"
+    "ark:/87287/d7r94j/D060/Box:68+Folder:7",
+    "ark:/87287/d7m62h"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7m62h-0.png"

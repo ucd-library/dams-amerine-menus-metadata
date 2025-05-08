@@ -36,9 +36,8 @@
     }
   ],
   "schema:identifier": [
-    "Digitized File Numbers:5313-5315",
     "ark:/87287/d7vp8s",
-    "D-060, Box:60, Folder:153"
+    "ark:/87287/d7r94j/D060/Box:60+Folder:153"
   ],
   "schema:image": {
     "@id": "@base:/media/images/d7vp8s-0.png"
